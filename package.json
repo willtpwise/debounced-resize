@@ -1,0 +1,11 @@
+{
+  "name": "debounced-resize",
+  "version": "1.0.1",
+  "description": "Debounced resize event for native JavaScript. Lightweight package with ES6 Promise support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Wise <will@williamwise.net>",
+  "license": "ISC"
+}
