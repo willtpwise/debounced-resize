@@ -10,7 +10,7 @@ npm install --save debounced-resize
 ```js
 import debouncedResize from 'debounced-resize'
 
-debouncedResize().then((e) => {
+debouncedResize((e) => {
   console.log('Resized')
 })
 ```
