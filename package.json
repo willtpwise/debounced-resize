@@ -1,6 +1,6 @@
 {
   "name": "debounced-resize",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Debounced resize event for native JavaScript. Lightweight package with ES6 Promise support",
   "main": "index.js",
   "scripts": {
