@@ -1,5 +1,5 @@
 # Debounced Resize
-Native JS debounce for the window resize event with support for ES6 Promises
+Native JS debounce for the window resize event
 
 ## Install
 ```shell
